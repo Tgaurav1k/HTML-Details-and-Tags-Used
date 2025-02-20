@@ -1,0 +1,32 @@
+td, th{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+form{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    
+}
+    
+label{
+    word-spacing: normal;
+    border-spacing: 100px;
+    margin:1px ;
+    display: flex;
+}
+
+.img{
+    align-items: center;
+    height: 10px;
+    width: 50px;
+
+}

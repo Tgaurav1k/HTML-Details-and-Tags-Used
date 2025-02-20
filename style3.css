@@ -1,0 +1,35 @@
+body{
+    display: block;
+    margin: 10px;
+}
+
+table{
+    width: 100%;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-style: double;
+    border-color: black;
+    
+
+}
+
+td, th{
+    
+    border:solid black;
+    border-style: double;
+    font-style: normal;
+    padding: 12px;
+    margin: 100%;
+    justify-content:center;
+     
+}
+
+a{
+    color: blue;
+    background-color: aqua;
+}
+
+.details{
+    margin-left: 200px;
+}
